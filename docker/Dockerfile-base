@@ -1,2 +1,4 @@
 FROM alpine:edge
+
+ENV VER=BASE
 CMD ["/bin/sh"]
