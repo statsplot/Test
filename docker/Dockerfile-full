@@ -1,0 +1,3 @@
+FROM statsplot/test:full
+
+ENV VER=FULL
